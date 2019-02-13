@@ -147,7 +147,7 @@
             setTimeout(function () {
                 animating = false;
                 that.removeClass('processing');
-                alert("登录成功")
+//                alert("登录成功")
             }, submitPhase1);
             return true;
         });
